@@ -1,0 +1,49 @@
+Region,Department,Product Category,BudgetedRevenue
+North America,Enterprise Solutions,SaaS Subscriptions,1449961.1839502254
+North America,Enterprise Solutions,Professional Services,1286345.014415552
+North America,Enterprise Solutions,Hardware Infrastructure,589411.0023122595
+North America,Digital Commerce,SaaS Subscriptions,917580.7757849284
+North America,Digital Commerce,Professional Services,1379118.3075621647
+North America,Digital Commerce,Hardware Infrastructure,1444732.0222914102
+North America,Government Infrastructure,SaaS Subscriptions,967401.5112498697
+North America,Government Infrastructure,Professional Services,1113411.3892107077
+North America,Government Infrastructure,Hardware Infrastructure,667033.9460920752
+North America,Direct Channels,SaaS Subscriptions,1491168.6261369765
+North America,Direct Channels,Professional Services,731671.7013834434
+North America,Direct Channels,Hardware Infrastructure,1442731.7741351258
+EMEA,Enterprise Solutions,SaaS Subscriptions,1149646.6489923685
+EMEA,Enterprise Solutions,Professional Services,1107736.794878859
+EMEA,Enterprise Solutions,Hardware Infrastructure,1012688.5110165086
+EMEA,Digital Commerce,SaaS Subscriptions,730669.8117177587
+EMEA,Digital Commerce,Professional Services,676528.0320055082
+EMEA,Digital Commerce,Hardware Infrastructure,720486.2090701754
+EMEA,Government Infrastructure,SaaS Subscriptions,686438.2621442545
+EMEA,Government Infrastructure,Professional Services,1279584.4735667533
+EMEA,Government Infrastructure,Hardware Infrastructure,850125.2591667301
+EMEA,Direct Channels,SaaS Subscriptions,557842.6765633964
+EMEA,Direct Channels,Professional Services,1469102.6301408112
+EMEA,Direct Channels,Hardware Infrastructure,1383785.8849634258
+APAC,Enterprise Solutions,SaaS Subscriptions,1427752.283195213
+APAC,Enterprise Solutions,Professional Services,1494907.8226464354
+APAC,Enterprise Solutions,Hardware Infrastructure,673895.2492194873
+APAC,Digital Commerce,SaaS Subscriptions,896242.0189026587
+APAC,Digital Commerce,Professional Services,1258238.4757040911
+APAC,Digital Commerce,Hardware Infrastructure,1196020.6180537923
+APAC,Government Infrastructure,SaaS Subscriptions,653895.906339855
+APAC,Government Infrastructure,Professional Services,1315833.1249906179
+APAC,Government Infrastructure,Hardware Infrastructure,724440.5718366606
+APAC,Direct Channels,SaaS Subscriptions,723817.6148226231
+APAC,Direct Channels,Professional Services,1036974.4228934136
+APAC,Direct Channels,Hardware Infrastructure,1092939.9348417032
+LATAM,Enterprise Solutions,SaaS Subscriptions,1080086.2078378112
+LATAM,Enterprise Solutions,Professional Services,591486.8373977549
+LATAM,Enterprise Solutions,Hardware Infrastructure,1377460.8626303803
+LATAM,Digital Commerce,SaaS Subscriptions,765600.0425887061
+LATAM,Digital Commerce,Professional Services,629514.9212828042
+LATAM,Digital Commerce,Hardware Infrastructure,1388748.0798689772
+LATAM,Government Infrastructure,SaaS Subscriptions,1455651.4982297532
+LATAM,Government Infrastructure,Professional Services,1362127.6172654508
+LATAM,Government Infrastructure,Hardware Infrastructure,1309516.0747248782
+LATAM,Direct Channels,SaaS Subscriptions,1155241.9806390218
+LATAM,Direct Channels,Professional Services,1050857.3706091393
+LATAM,Direct Channels,Hardware Infrastructure,586986.7599114102

@@ -1,0 +1,151 @@
+TxID,Date,Region,Department,Product Category,Revenue
+REV-1000,2026-04-13,EMEA,Enterprise Solutions,SaaS Subscriptions,26387.209896699867
+REV-1001,2026-09-28,LATAM,Direct Channels,Hardware Infrastructure,30987.6490064284
+REV-1002,2026-04-17,LATAM,Direct Channels,SaaS Subscriptions,53364.43625051388
+REV-1003,2026-03-13,EMEA,Enterprise Solutions,Professional Services,106432.49301950057
+REV-1004,2026-07-08,EMEA,Government Infrastructure,Professional Services,82665.706042822
+REV-1005,2026-01-21,North America,Enterprise Solutions,SaaS Subscriptions,40344.196356152075
+REV-1006,2026-04-13,EMEA,Digital Commerce,Professional Services,18139.819625552096
+REV-1007,2026-05-02,LATAM,Enterprise Solutions,SaaS Subscriptions,37758.379613362384
+REV-1008,2026-08-03,EMEA,Enterprise Solutions,Professional Services,108636.79314050707
+REV-1009,2026-03-29,LATAM,Government Infrastructure,Hardware Infrastructure,87353.86345622817
+REV-1010,2026-04-10,APAC,Enterprise Solutions,Hardware Infrastructure,91298.2768560901
+REV-1011,2026-06-01,North America,Direct Channels,Professional Services,75185.32252228499
+REV-1012,2026-05-11,APAC,Government Infrastructure,SaaS Subscriptions,29318.166676715802
+REV-1013,2026-05-30,APAC,Digital Commerce,SaaS Subscriptions,96544.08645730339
+REV-1014,2026-09-15,LATAM,Government Infrastructure,Hardware Infrastructure,82559.20558161169
+REV-1015,2026-10-21,APAC,Government Infrastructure,Hardware Infrastructure,31564.810755474187
+REV-1016,2026-07-11,North America,Direct Channels,Hardware Infrastructure,103989.34892998978
+REV-1017,2026-10-04,North America,Government Infrastructure,SaaS Subscriptions,25779.984517855963
+REV-1018,2026-06-10,APAC,Government Infrastructure,Professional Services,81099.5179377828
+REV-1019,2026-01-22,APAC,Direct Channels,Professional Services,108305.99261629638
+REV-1020,2026-09-10,LATAM,Direct Channels,SaaS Subscriptions,37975.96763554291
+REV-1021,2026-08-24,LATAM,Digital Commerce,SaaS Subscriptions,100539.7154305164
+REV-1022,2026-02-18,APAC,Government Infrastructure,SaaS Subscriptions,41492.77849625728
+REV-1023,2026-02-28,APAC,Direct Channels,Hardware Infrastructure,96350.80772841879
+REV-1024,2026-06-19,EMEA,Direct Channels,SaaS Subscriptions,75993.00638465735
+REV-1025,2026-07-07,APAC,Enterprise Solutions,Professional Services,78553.88419785173
+REV-1026,2026-09-28,EMEA,Government Infrastructure,Professional Services,104312.67703348894
+REV-1027,2026-07-09,North America,Enterprise Solutions,Professional Services,30276.76488466237
+REV-1028,2026-06-24,EMEA,Digital Commerce,Professional Services,57600.2935836935
+REV-1029,2026-02-20,North America,Enterprise Solutions,SaaS Subscriptions,16717.15954347448
+REV-1030,2026-02-24,EMEA,Enterprise Solutions,Hardware Infrastructure,83489.29280395228
+REV-1031,2026-09-01,LATAM,Enterprise Solutions,Hardware Infrastructure,49933.001290646185
+REV-1032,2026-05-11,APAC,Digital Commerce,Professional Services,71037.73051825166
+REV-1033,2026-05-15,EMEA,Enterprise Solutions,Hardware Infrastructure,99744.42274182577
+REV-1034,2026-01-21,APAC,Government Infrastructure,Professional Services,48257.44873099419
+REV-1035,2026-06-16,North America,Direct Channels,Hardware Infrastructure,61789.18091279207
+REV-1036,2026-10-01,North America,Direct Channels,SaaS Subscriptions,62423.37108905147
+REV-1037,2026-03-30,LATAM,Government Infrastructure,SaaS Subscriptions,19142.358316671205
+REV-1038,2026-01-14,LATAM,Direct Channels,Professional Services,105623.2148152458
+REV-1039,2026-08-30,North America,Digital Commerce,Hardware Infrastructure,86033.28352025432
+REV-1040,2026-09-22,North America,Direct Channels,SaaS Subscriptions,55677.494090144864
+REV-1041,2026-02-22,North America,Government Infrastructure,Hardware Infrastructure,108131.50045302435
+REV-1042,2026-04-02,LATAM,Government Infrastructure,SaaS Subscriptions,51584.284217182896
+REV-1043,2026-09-21,APAC,Enterprise Solutions,Hardware Infrastructure,31101.810935178786
+REV-1044,2026-02-04,North America,Digital Commerce,Hardware Infrastructure,95200.24836899959
+REV-1045,2026-07-25,APAC,Direct Channels,Professional Services,24231.766908223013
+REV-1046,2026-03-22,LATAM,Government Infrastructure,Professional Services,49071.44422313557
+REV-1047,2026-02-19,APAC,Government Infrastructure,Professional Services,98350.44183315577
+REV-1048,2026-01-02,North America,Direct Channels,SaaS Subscriptions,27979.026486992738
+REV-1049,2026-02-23,EMEA,Direct Channels,Hardware Infrastructure,42891.22520512687
+REV-1050,2026-04-16,APAC,Digital Commerce,Hardware Infrastructure,39339.65964147351
+REV-1051,2026-09-17,LATAM,Enterprise Solutions,Professional Services,15492.561963528744
+REV-1052,2026-07-10,LATAM,Enterprise Solutions,SaaS Subscriptions,21739.38711499313
+REV-1053,2026-08-06,EMEA,Direct Channels,Professional Services,99550.5074726688
+REV-1054,2026-02-13,APAC,Government Infrastructure,Professional Services,23928.284284882553
+REV-1055,2026-06-11,APAC,Government Infrastructure,Professional Services,46174.50341009953
+REV-1056,2026-07-21,EMEA,Government Infrastructure,Professional Services,42221.418952187014
+REV-1057,2026-09-27,EMEA,Digital Commerce,Professional Services,38773.879249007085
+REV-1058,2026-09-28,EMEA,Digital Commerce,Hardware Infrastructure,49218.11093406998
+REV-1059,2026-08-03,LATAM,Enterprise Solutions,SaaS Subscriptions,93647.55535982092
+REV-1060,2026-09-09,LATAM,Direct Channels,SaaS Subscriptions,58440.19035330421
+REV-1061,2026-07-09,EMEA,Enterprise Solutions,Professional Services,66360.33655296013
+REV-1062,2026-10-23,APAC,Direct Channels,SaaS Subscriptions,107106.0023758451
+REV-1063,2026-08-01,EMEA,Digital Commerce,Hardware Infrastructure,90542.68850302685
+REV-1064,2026-07-27,APAC,Government Infrastructure,Professional Services,22453.356227515265
+REV-1065,2026-08-25,North America,Digital Commerce,SaaS Subscriptions,22682.93182863378
+REV-1066,2026-02-22,APAC,Enterprise Solutions,SaaS Subscriptions,20528.391573302142
+REV-1067,2026-10-07,EMEA,Enterprise Solutions,Hardware Infrastructure,38773.07532563656
+REV-1068,2026-08-05,EMEA,Digital Commerce,SaaS Subscriptions,77718.75078818446
+REV-1069,2026-09-09,North America,Enterprise Solutions,SaaS Subscriptions,85100.207086098
+REV-1070,2026-07-07,APAC,Enterprise Solutions,Professional Services,84353.73507337277
+REV-1071,2026-02-10,APAC,Direct Channels,Professional Services,48817.40447186985
+REV-1072,2026-06-06,North America,Digital Commerce,SaaS Subscriptions,47478.56833805815
+REV-1073,2026-01-15,LATAM,Enterprise Solutions,Hardware Infrastructure,18869.236220302162
+REV-1074,2026-03-06,EMEA,Digital Commerce,SaaS Subscriptions,60046.513763295894
+REV-1075,2026-01-09,EMEA,Digital Commerce,SaaS Subscriptions,59979.81822415374
+REV-1076,2026-05-09,North America,Digital Commerce,Professional Services,76728.49985106252
+REV-1077,2026-05-16,EMEA,Digital Commerce,Professional Services,75333.89683242617
+REV-1078,2026-03-04,EMEA,Direct Channels,Hardware Infrastructure,16453.93132758655
+REV-1079,2026-05-19,APAC,Digital Commerce,SaaS Subscriptions,66240.85759800594
+REV-1080,2026-03-22,North America,Direct Channels,Hardware Infrastructure,104703.9017268909
+REV-1081,2026-06-12,LATAM,Direct Channels,Hardware Infrastructure,91090.18299482798
+REV-1082,2026-10-16,LATAM,Digital Commerce,Hardware Infrastructure,76112.38075202354
+REV-1083,2026-09-18,North America,Enterprise Solutions,Hardware Infrastructure,92960.75019567576
+REV-1084,2026-08-19,LATAM,Government Infrastructure,SaaS Subscriptions,106313.10356327186
+REV-1085,2026-02-10,EMEA,Government Infrastructure,SaaS Subscriptions,21589.32358314072
+REV-1086,2026-01-28,APAC,Digital Commerce,Professional Services,18701.497569472194
+REV-1087,2026-05-15,EMEA,Government Infrastructure,Hardware Infrastructure,21762.921603721756
+REV-1088,2026-07-20,LATAM,Enterprise Solutions,Professional Services,79753.29855241503
+REV-1089,2026-09-25,EMEA,Digital Commerce,Hardware Infrastructure,41776.203603473
+REV-1090,2026-02-02,LATAM,Digital Commerce,SaaS Subscriptions,48091.97742305375
+REV-1091,2026-02-17,APAC,Enterprise Solutions,SaaS Subscriptions,91330.68838656062
+REV-1092,2026-03-03,North America,Direct Channels,Professional Services,55229.739519271265
+REV-1093,2026-08-04,LATAM,Direct Channels,Hardware Infrastructure,109097.98849006396
+REV-1094,2026-10-20,LATAM,Direct Channels,Professional Services,38751.562675529945
+REV-1095,2026-04-09,LATAM,Direct Channels,Hardware Infrastructure,103421.94593233865
+REV-1096,2026-06-21,North America,Direct Channels,SaaS Subscriptions,79585.25409052335
+REV-1097,2026-08-02,APAC,Enterprise Solutions,Hardware Infrastructure,24796.7675394136
+REV-1098,2026-02-04,North America,Enterprise Solutions,Professional Services,62173.31311489238
+REV-1099,2026-08-15,North America,Digital Commerce,SaaS Subscriptions,100074.70670713905
+REV-1100,2026-04-11,North America,Direct Channels,SaaS Subscriptions,101011.28775983004
+REV-1101,2026-05-11,LATAM,Enterprise Solutions,Hardware Infrastructure,105896.08408701335
+REV-1102,2026-09-14,APAC,Direct Channels,Hardware Infrastructure,61837.43748832147
+REV-1103,2026-01-05,LATAM,Enterprise Solutions,SaaS Subscriptions,42855.02331131613
+REV-1104,2026-08-06,North America,Direct Channels,Hardware Infrastructure,35209.15002730175
+REV-1105,2026-09-12,North America,Government Infrastructure,SaaS Subscriptions,25779.13719165756
+REV-1106,2026-10-10,North America,Digital Commerce,Professional Services,20468.08220158121
+REV-1107,2026-07-26,APAC,Digital Commerce,SaaS Subscriptions,85018.37789514584
+REV-1108,2026-01-15,North America,Government Infrastructure,Hardware Infrastructure,26121.366560622555
+REV-1109,2026-02-11,LATAM,Enterprise Solutions,Professional Services,94511.56805255052
+REV-1110,2026-06-28,North America,Enterprise Solutions,Professional Services,22990.146580924757
+REV-1111,2026-03-04,North America,Direct Channels,Professional Services,52681.902185653926
+REV-1112,2026-08-19,APAC,Digital Commerce,Professional Services,22728.134160980477
+REV-1113,2026-08-29,North America,Digital Commerce,Hardware Infrastructure,70224.01463654432
+REV-1114,2026-02-21,North America,Enterprise Solutions,Professional Services,92215.95888946274
+REV-1115,2026-04-06,APAC,Government Infrastructure,SaaS Subscriptions,71229.43018802202
+REV-1116,2026-08-10,LATAM,Digital Commerce,Hardware Infrastructure,60758.36385659096
+REV-1117,2026-08-19,LATAM,Digital Commerce,Hardware Infrastructure,55301.090878462746
+REV-1118,2026-08-25,EMEA,Government Infrastructure,Hardware Infrastructure,56272.92522638578
+REV-1119,2026-05-23,North America,Enterprise Solutions,Professional Services,59522.760989441995
+REV-1120,2026-06-20,EMEA,Direct Channels,SaaS Subscriptions,93165.08342828584
+REV-1121,2026-01-29,APAC,Enterprise Solutions,Hardware Infrastructure,70420.03268423016
+REV-1122,2026-02-05,EMEA,Enterprise Solutions,Hardware Infrastructure,60382.91463362163
+REV-1123,2026-01-13,North America,Direct Channels,SaaS Subscriptions,36241.604659348
+REV-1124,2026-06-09,EMEA,Digital Commerce,SaaS Subscriptions,107138.48853722571
+REV-1125,2026-07-06,North America,Government Infrastructure,SaaS Subscriptions,19123.074413326412
+REV-1126,2026-08-31,North America,Government Infrastructure,SaaS Subscriptions,39034.06595897791
+REV-1127,2026-03-27,APAC,Direct Channels,SaaS Subscriptions,64694.29519616414
+REV-1128,2026-10-11,North America,Enterprise Solutions,Professional Services,42976.92494974584
+REV-1129,2026-03-07,North America,Enterprise Solutions,Professional Services,70509.85963269453
+REV-1130,2026-06-19,LATAM,Government Infrastructure,SaaS Subscriptions,101949.1624585651
+REV-1131,2026-02-14,EMEA,Direct Channels,Professional Services,58287.39151464273
+REV-1132,2026-03-03,LATAM,Enterprise Solutions,Professional Services,32871.51017375733
+REV-1133,2026-05-14,EMEA,Direct Channels,Professional Services,36792.50084197022
+REV-1134,2026-10-11,LATAM,Direct Channels,SaaS Subscriptions,107567.50672828582
+REV-1135,2026-01-28,LATAM,Government Infrastructure,Professional Services,18070.015355416796
+REV-1136,2026-04-18,North America,Enterprise Solutions,SaaS Subscriptions,92310.52687216012
+REV-1137,2026-02-13,LATAM,Direct Channels,SaaS Subscriptions,27652.586896256224
+REV-1138,2026-10-13,APAC,Enterprise Solutions,Professional Services,105230.99176273278
+REV-1139,2026-05-08,LATAM,Enterprise Solutions,Hardware Infrastructure,102321.77242437816
+REV-1140,2026-08-19,EMEA,Direct Channels,Professional Services,97276.0695025388
+REV-1141,2026-07-09,North America,Enterprise Solutions,Hardware Infrastructure,54069.23607561006
+REV-1142,2026-08-13,EMEA,Enterprise Solutions,Professional Services,108791.23228491972
+REV-1143,2026-10-10,North America,Government Infrastructure,SaaS Subscriptions,86209.93849772685
+REV-1144,2026-05-01,North America,Digital Commerce,Hardware Infrastructure,95001.29769789233
+REV-1145,2026-04-26,North America,Enterprise Solutions,Professional Services,18498.077425419182
+REV-1146,2026-08-21,APAC,Enterprise Solutions,SaaS Subscriptions,20355.672181838076
+REV-1147,2026-09-16,EMEA,Direct Channels,SaaS Subscriptions,65762.896127799
+REV-1148,2026-07-17,North America,Digital Commerce,Hardware Infrastructure,67766.01203224961
+REV-1149,2026-05-17,North America,Enterprise Solutions,SaaS Subscriptions,86922.71419403331
